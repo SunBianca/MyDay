@@ -13,8 +13,8 @@ O aplicativo segue o padrão **MVVM**, expandido para lidar com serviços de sis
     - **AlarmManager:** Responsável pelo agendamento de eventos no sistema Android.
     - **BroadcastReceiver:** Escuta os gatilhos do sistema para iniciar notificações de áudio e atualizações de estado.
 
-## 3. Escolhas de Design (Bianca Style)
-A interface foi projetada sob a estética "Bianca Style", que une sofisticação e misticismo:
+## 3. Escolhas de Design
+A interface foi projetada sob a estética que une sofisticação e misticismo:
 - **Paleta de Cores (Dualidade Celestial):**
     - **Modo Dia (Rose Quartz):** Utiliza tons de quartzo rosa e pastéis, transmitindo suavidade e clareza.
     - **Modo Noite (Amethyst & Midnight):** Foca em tons de ametista, violeta e preto profundo, criando uma atmosfera mística e relaxante.
