@@ -79,7 +79,15 @@ O My Day foi construído com o que há de mais moderno no desenvolvimento Androi
 
 ---
 
-## 🌙 Créditos
+## 📚 Documentação Adicional
+Para detalhes profundos sobre a implementação técnica e decisões de projeto, consulte:
+- [🚀 Por que Kotlin em vez de Java?](KOTLIN_VS_JAVA.md)
+- [📖 Detalhes Técnicos e APIs](DETALHES_TECNICOS.md)
+- [📝 Relatório Técnico de Desenvolvimento](RELATORIO_TECNICO.md)
+- [📘 Documentação da Arquitetura](DOCUMENTACAO_TECNICA.md)
+- [💻 Explicação do Código-Fonte](EXPLICAÇÃO_DO_CÓDIGO.md)
+
+---
 Desenvolvido com paixão, magia e rigor técnico por **Bianca**. ✨
 
 ---
